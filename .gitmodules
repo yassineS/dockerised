@@ -1,3 +1,6 @@
 [submodule "ORNA-Docker"]
 	path = ORNA-Docker
 	url = https://github.com/yassineS/ORNA-Docker
+[submodule "metaphlan2-docker"]
+	path = metaphlan2-docker
+	url = https://github.com/yassineS/metaphlan2-docker
