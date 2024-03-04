@@ -4,3 +4,6 @@
 [submodule "metaphlan2-docker"]
 	path = metaphlan2-docker
 	url = https://github.com/yassineS/metaphlan2-docker
+[submodule "ATLAS-Docker"]
+	path = ATLAS-Docker
+	url = https://github.com/yassineS/ATLAS-Docker
